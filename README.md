@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Park%20Eunji&animation=twinkling&fontSize=90)
+<!--[header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Park%20Eunji&animation=twinkling&fontSize=90)-->
 
 <br>
-<br>
-<img src="https://github.com/hyeon8571/hyeon8571/assets/97227876/08b15df5-63b9-46de-9c26-189808fc6e73" width="12" height="17" align='center'/> <b>&nbsp;&nbsp;About Me</b>
-<br>
+<!-- <br> -->
+<!-- <img src="https://github.com/hyeon8571/hyeon8571/assets/97227876/08b15df5-63b9-46de-9c26-189808fc6e73" width="12" height="17" align='center'/> <b>&nbsp;&nbsp;About Me</b> -->
+<!-- <br> -->
 <br>
  <a href="https://velog.io/@eunji04/series"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link="https://velog.io/@eunji04/series"/></a>
 
@@ -14,8 +14,8 @@
 <br>
 <br>
 <ul>
-     <li>한양대학교 에리카캠퍼스 응용수학과 졸업 (2019.03 ~ 2024.02)</li>
-     <li>한양대학교 에리카캠퍼스 컴퓨터학부 복수 전공</li>
+<!--      <li>한양대학교 에리카캠퍼스 응용수학과 졸업 (2019.03 ~ 2024.02)</li> -->
+<!--      <li>한양대학교 에리카캠퍼스 컴퓨터학부 복수 전공</li> -->
      <li>삼성 청년 SW 아카데미 (2024.01 ~ )</li>
 </ul>
 
